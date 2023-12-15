@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         教评脚本
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  东北大学秦皇岛分校教务处教师评价的自动化油猴脚本
 // @author       Juns
 // @match        http://jwxt.neuq.edu.cn/eams/quality/*
